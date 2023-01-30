@@ -84,7 +84,7 @@ html{
 
 #home::before {
     content: "";
-    background: url(/img/pasta-g0116e1420_1920.jpg) no-repeat center center/cover;
+    background: url(img/pasta-g0116e1420_1920.jpg) no-repeat center center/cover;
     position: absolute;
     height: 450px;
     top: 0px;
